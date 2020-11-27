@@ -8727,6 +8727,11 @@ PrefabInstance:
       propertyPath: animator
       value: 
       objectReference: {fileID: 562886122}
+    - target: {fileID: -8971520412214836514, guid: 0723edb3dd41c934685817080b0e615f,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5076456936396126869, guid: 0723edb3dd41c934685817080b0e615f,
         type: 3}
       propertyPath: m_LocalRotation.x
